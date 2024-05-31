@@ -62,6 +62,12 @@ To install the requirements used in the experiment, simply run:
 ```bash
 pip install -r requirements.txt
 ```
+And the necessary environment for CL and LL, due to the size issues, you can obtain it from 
+
+```url
+https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework.git
+```
+
 
 ### Example
 Use `main_static.py` to test a method in the static case, and use `main_streaming.py` to test a method in the streaming case.
