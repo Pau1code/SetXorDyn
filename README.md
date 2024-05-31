@@ -62,7 +62,7 @@ To install the requirements used in the experiment, simply run:
 ```bash
 pip install -r requirements.txt
 ```
-And the necessary environment for CL and LL, due to the size issues, you can obtain it from 
+And the necessary environment for CL and LL, you can obtain it from 
 
 ```url
 https://github.com/world-federation-of-advertisers/cardinality_estimation_evaluation_framework.git
